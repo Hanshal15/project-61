@@ -1,0 +1,55 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: cornsilk;
+    text-align: center;
+    display: inline;
+}
+
+p {
+    font-size: 25px;
+    text-align: left;
+    outline: 3px solid red;
+}
+
+h1 {
+    font-size: 65px;
+    border-bottom: 15px;
+    font-family: sans-serif;
+    text-align: center;
+    background-color: bisque
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+    color: black;
+}
+
+.link:hover {
+    color: cornflowerblue;
+    background-color: darkblue;
+}
+
+a {
+    font-size: 18px;
+    display: inline;
+}
+
+img {
+    transition: transform.2s
+}
+
+img:hover {
+    transform: scale(0.9)
+}
+
+#horizontly{
+  display: 
+}
